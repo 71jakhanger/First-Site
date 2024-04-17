@@ -1,0 +1,25 @@
+html, body {
+  align-content: center;
+  text-align: center;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right, #2A2D34, #009DDC, #F26430, #6761A8, #009B72);
+}
+h1 {
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+h2 {
+
+  font-weight: 650;
+  font-style: normal;
+  color: black;
+}
+h3 {
+
+  font-weight: 650;
+  font-style: normal;
+  color: black;
+}
